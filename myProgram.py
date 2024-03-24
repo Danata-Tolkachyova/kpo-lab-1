@@ -1,4 +1,5 @@
 name = input("What your name? (Type here) ")
-print("Hello " + name + "!")
+lastname = input("What your lastname? (Also here) ")
+print("Hello " + name + " " + lastname + "!")
 
 input()
